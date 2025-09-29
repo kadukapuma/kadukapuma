@@ -10,7 +10,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝      ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%9A%80+Full+Stack+Developer+%7C+Innovator;%F0%9F%92%BB+Building+Tomorrow's+Solutions+Today;%E2%9A%A1+Automation+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
+
 
 [![Profile Views](https://komarev.com/ghpvc/?username=kadukapuma&color=00F7FF&style=for-the-badge&label=VISITOR+COUNT)](https://github.com/kadukapuma)
 [![GitHub followers](https://img.shields.io/github/followers/kadukapuma?style=for-the-badge&color=00F7FF&labelColor=0D1117)](https://github.com/kadukapuma?tab=followers)
