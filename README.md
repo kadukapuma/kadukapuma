@@ -140,15 +140,15 @@ const kadukapuma = {
 
 <div align="center">
 
-## 🎨 Contribution Snake
+### 🎨 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kadukapuma/kadukapuma/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kadukapuma/kadukapuma/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kadukapuma/kadukapuma/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="output/github-contribution-grid-snake.svg">
 </picture>
 
-<sub>*Note: To enable the snake animation, you'll need to set up GitHub Actions. See setup instructions below.*</sub>
+<sub>*Note: To enable the snake animation, you've set up GitHub Actions with `.github/workflows/snake.yml`.*</sub>
 
 </div>
 
