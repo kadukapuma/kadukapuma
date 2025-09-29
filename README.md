@@ -187,28 +187,6 @@ const kadukapuma = {
 
 <div align="center">
 
-### ⚡ Fun Fact
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🎵 Coding Vibes
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=00d9ff&bar_color_cover=true" alt="Spotify Now Playing"/>
-
-<sub>*Update YOUR_SPOTIFY_ID with your actual Spotify user ID*</sub>
-
-</div>
-
----
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 ### ⭐ From [kadukapuma](https://github.com/kadukapuma) with 💙
