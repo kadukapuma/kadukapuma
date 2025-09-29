@@ -1,5 +1,6 @@
 <div align="center">
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kadukapuma&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
 ```ascii
 ██╗  ██╗ █████╗ ██████╗ ██╗   ██╗██╗  ██╗ █████╗ ██████╗ ██╗   ██╗███╗   ███╗ █████╗ 
@@ -10,16 +11,10 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝      ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝
 ```
 
-
-
-[![Profile Views](https://komarev.com/ghpvc/?username=kadukapuma&color=00F7FF&style=for-the-badge&label=VISITOR+COUNT)](https://github.com/kadukapuma)
-[![GitHub followers](https://img.shields.io/github/followers/kadukapuma?style=for-the-badge&color=00F7FF&labelColor=0D1117)](https://github.com/kadukapuma?tab=followers)
-[![Years Badge](https://badges.pufler.dev/years/kadukapuma?style=for-the-badge&color=00F7FF&labelColor=0D1117)](https://github.com/kadukapuma)
-
 </div>
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kadukapuma&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
+
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%92%A1;Code+Enthusiast+%E2%9C%A8;Building+Tomorrow's+Solutions" alt="Typing SVG" /></a>
