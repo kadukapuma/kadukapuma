@@ -49,18 +49,7 @@
 <br/>
 
 ```typescript
-interface Developer {
-  name: string;
-  location: string;
-  role: string;
-  languages: string[];
-  frameworks: string[];
-  databases: string[];
-  tools: string[];
-  currentlyLearning: string[];
-  passions: string[];
-  dailyRoutine: string[];
-}
+
 
 const kadukapuma: Developer = {
   name: "Kadukapuma",
